@@ -1,0 +1,1 @@
+export default function LoadingSeats(){return <main className="inner-page"><p className="section-kicker">LOADING SEAT MAP…</p></main>;}
